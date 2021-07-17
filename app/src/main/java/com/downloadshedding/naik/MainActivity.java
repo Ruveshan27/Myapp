@@ -59,9 +59,6 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-
-
-
         settings_TextView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -92,8 +89,6 @@ public class MainActivity extends AppCompatActivity {
             }
 
         });
-
-
         save_playlist.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
