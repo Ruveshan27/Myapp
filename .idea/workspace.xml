@@ -28,7 +28,14 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9055c9-c3ef-454d-8ce3-fd38da50bf81" name="Default Changelist" comment="My app">
@@ -295,10 +302,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="71" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1626430542697" />
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1626425249753">
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1626536578801">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1626425249753" />
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1626536578801" />
     <state x="496" y="142" key="chooseDestDirectoryDialog" timestamp="1625818547078">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
